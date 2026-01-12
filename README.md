@@ -14,7 +14,7 @@ CanCana; öğrencilerin ihtiyaçlarını (ders notu, kitap, eşya vb.) karşıla
 ## 📺 Proje Tanıtım Videosu
 Projenin çalışır halini, ekranlarını ve veritabanı işlemlerini aşağıdaki videodan izleyebilirsiniz:
 
-[![YouTube Video](https://www.youtube.com/watch?v=z0YwojCkASM)
+[![CanCana Tanıtım Videosu](https://img.youtube.com/vi/z0YwojCkASM/0.jpg)](https://www.youtube.com/watch?v=z0YwojCkASM)
 
 *(Videoyu izlemek için yukarıdaki görsele tıklayınız)*
 
@@ -43,17 +43,6 @@ CanCana, **"Can Sistemi"** ile çalışır. Bir kullanıcı yardım istediğinde
 | 🔍 **Arama & Filtreleme** | Kategorilere (Kitap, Giyim, Yiyecek) göre filtreleme ve dinamik arama motoru. |
 | 🎨 **Modern UI/UX** | Material Design 3 prensiplerine uygun, renk uyumlu ve kullanıcı dostu arayüz. |
 
----
-
-## 📱 Ekran Görüntüleri (Screenshots)
-
-| Giriş Ekranı | Ana Sayfa | Sohbet Ekranı |
-|:---:|:---:|:---:|
-| <img src="assets/giris.png" width="200"/> | <img src="assets/ana_sayfa.png" width="200"/> | <img src="assets/chat.png" width="200"/> |
-
-| Profil & Canlar | Talep Oluşturma | Liderlik Tablosu |
-|:---:|:---:|:---:|
-| <img src="assets/profil.png" width="200"/> | <img src="assets/talep.png" width="200"/> | <img src="assets/liderlik.png" width="200"/> |
 
 ---
 
