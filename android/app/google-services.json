@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806738862854",
+    "project_id": "yurt-dayanisma-projesi",
+    "storage_bucket": "yurt-dayanisma-projesi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806738862854:android:db471b166990af94fdf487",
+        "android_client_info": {
+          "package_name": "com.example.yurt_dayanisma_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWVpbxccyrEGrxl1OYv-7Ewxm019477M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
