@@ -99,8 +99,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için adımları takip edin:
 
 ## 👤 Geliştirici
 
-* **Ad Soyad:** [Adın Soyadın]
-* **GitHub:** [Profil Linkin]
+* **Ad Soyad:** Ecrin Karabayraktar
 * **Ders:** Mobil Programlama Final Projesi
 
 ---
